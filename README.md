@@ -13,7 +13,8 @@ Tone.js - web audio - https://tonejs.github.io/examples/ &
 https://github.com/Tonejs/Tone.js/tree/dev/examples
 
 ## API's
-List of thousands of public API's in catagory https://github.com/public-apis/public-apis
+List of thousands of public API's in catagory https://github.com/public-apis/public-apis \
+With links https://github.com/corgicode/public-example-apis \
 
 Twitter https://developer.twitter.com/en/docs \
 Google Maps https://developers.google.com/maps/documentation/javascript/overview \
