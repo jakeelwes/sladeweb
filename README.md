@@ -34,6 +34,8 @@ Machine Learning:\
 
 
 ## Running
+To run these examples you need to start a local server - you can click on a .html file however it is unlikely to display properly as it cant handle external sources.
+
 In terminal navigate to your directory using `cd <directory>`
 
 Running `npm install -g live-server` & then `live-server` in a terminal in the same directory as your HTML file. This method will auto-update.
