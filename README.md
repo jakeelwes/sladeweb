@@ -40,7 +40,7 @@ In terminal navigate to your directory using `cd <directory>`
 
 Running `npm install -g live-server` & then `live-server` in a terminal in the same directory as your HTML file. This method will auto-update.
 
-Running `python -m SimpleHTTPServer` (or `python -m http.server` for Python 3) in a terminal in the same directory as your HTML file.
+Another method using python (although it wont auto-update) is - `python -m SimpleHTTPServer` (or `python -m http.server` for Python 3) in a terminal in the same directory as your HTML file.
 
 
 ## Setup
