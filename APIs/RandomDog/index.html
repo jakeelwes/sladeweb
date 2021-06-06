@@ -1,0 +1,26 @@
+<!-- from https://dog.ceo/dog-api/documentation/random -->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+</head>
+
+<body>
+    <div id="header"></div>
+
+    <script>
+        fetch('https://dog.ceo/api/breeds/image/random')
+            .then(response => response.json())
+            .then(data => {
+                var img = document.createElement("img");
+                img.src = data.message;
+                var src = document.getElementById("header");
+                src.appendChild(img);
+            })
+            .catch(error => console.error(error))
+    </script>
+
+</body>
+
+</html>

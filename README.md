@@ -15,11 +15,14 @@ https://github.com/Tonejs/Tone.js/tree/dev/examples
 ## API's
 List of thousands of public API's in catagory https://github.com/public-apis/public-apis \
 With links https://github.com/corgicode/public-example-apis \
+Rapid API - test API requests https://rapidapi.com/marketplace \
+APIs with no Auth/keys required - https://apipheny.io/free-api/ & https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
 
 Twitter https://developer.twitter.com/en/docs \
 Google Maps https://developers.google.com/maps/documentation/javascript/overview \
 Twilio (phone & text messages) - https://www.twilio.com/ \
-Webcams - https://api.windy.com/webcams
+Webcams - https://api.windy.com/webcams \
+TFL - https://api.tfl.gov.uk/
 
 Machine Learning:\
 [IBM Watson](https://www.ibm.com/watson/developer)\
