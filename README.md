@@ -1,6 +1,6 @@
 # Slade web art session
 
-<img src="https://lh3.googleusercontent.com/proxy/RRbegE0JDmXKd0bd8vyqiPyYYKwKyE105OCyI41NdrGQjAnrUxyLxgXZA_pm07FsAn-u38fNJ9iMumkuCkf-4iZauIpIlLbKJEsCUDNMhJEUQQCHN0KKoIYRzxvmoQnhmkftq1s">
+<img src="https://www.researchgate.net/profile/Jean-Paul-Fourmentraux/publication/37759256/figure/fig1/AS:394379555557380@1471038821368/Index-dun-dispositif-de-Jodi-Page-derreur-Error-404-Il-est-ici-possible.png">
 
 ## Examples taken from:
 P5.js - sketches- https://p5js.org/examples/ & https://showcase.p5js.org/#/2020-All
@@ -41,6 +41,8 @@ In terminal navigate to your directory using `cd <directory>`
 Running `npm install -g live-server` & then `live-server` in a terminal in the same directory as your HTML file. This method will auto-update.
 
 Another method using python (although it wont auto-update) is - `python -m SimpleHTTPServer` (or `python -m http.server` for Python 3) in a terminal in the same directory as your HTML file.
+
+Edit using a code editor such as VS Code, Sublime Text or Atom.
 
 
 ## Setup
